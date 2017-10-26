@@ -2,7 +2,7 @@
   "name": "uncompress.js",
   "version": "1.0.0",
   "description": "Uncompress ZIP, RAR, and TAR files with pure JavaScript",
-  "main": "js/uncompress.js",
+  "main": "index.js",
   "directories": {
     "example": "examples"
   },
