@@ -1,0 +1,31 @@
+{
+  "name": "uncompress.js",
+  "version": "1.0.0",
+  "description": "Uncompress ZIP, RAR, and TAR files with pure JavaScript",
+  "main": "js/uncompress.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valpet/uncompress.js.git"
+  },
+  "keywords": [
+    "tar",
+    "zip",
+    "rar",
+    "untar",
+    "unzip",
+    "unrar",
+    "decompress"
+  ],
+  "author": "Matthew Brennan Jones <matthew.brennan.jones@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workhorsy/uncompress.js/issues"
+  },
+  "homepage": "https://github.com/workhorsy/uncompress.js#readme"
+}
