@@ -1,5 +1,5 @@
 {
-  "name": "uncompress.js",
+  "name": "uncompressjs",
   "version": "1.0.0",
   "description": "Uncompress ZIP, RAR, and TAR files with pure JavaScript",
   "main": "index.js",
